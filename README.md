@@ -6,6 +6,10 @@ It's simple implementation integrating [GraphQL](http://graphql.org/) with [Lara
 
 ## How To Use
 
+**Clone Repo**
+
+	https://github.com/rizalreza/laravel-graphql.git
+
 **Dependencies**
 * [rebing/graphql-laravel](https://github.com/rebing/graphql-laravel)
 * [folklore/graphql](https://github.com/Folkloreatelier/laravel-graphql)
