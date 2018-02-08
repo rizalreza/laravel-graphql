@@ -19,7 +19,7 @@ class KaryawanType extends GraphQLType
     {
         return [
         	'id' => [
-        		'type' => Type::nonNull(Type::string()),
+        		'type' => Type::nonNull(Type::int()),
                 'description' => 'Id karyawan',
         	],
         	'nama' => [
